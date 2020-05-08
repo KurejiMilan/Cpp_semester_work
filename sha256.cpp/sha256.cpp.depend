@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550408005 source:f:\codeblock\projects\sha256.cpp\main.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
